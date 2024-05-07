@@ -1,1 +1,3 @@
 # SignoSpeak: Bridging the Gap
+
+SignoSpeak aims to address this challenge by developing a robust system capable of accurately recognizing and converting American Sign Language (ASL) gestures representing the 26 alphabets into text. Leveraging Convolutional Neural Networks (CNN) implemented using TensorFlow and OpenCV, the system analyzes input images or video streams captured in real-time through cameras. The CNN model is trained on a dataset containing a comprehensive collection of ASL alphabet gestures to learn and recognize the unique patterns associated with each sign. The system then translates the recognized gestures into corresponding textual representations, facilitating communication for individuals with hearing impairments.
